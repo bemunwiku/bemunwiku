@@ -33,9 +33,9 @@
 <br/>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arifnurrizqi&show_icons=true&theme=default)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bemunwiku&show_icons=true&theme=default)
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifnurrizqi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bemunwiku&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://aarrnnuurr.netlify.app/error.html
 [twitter]: https://twitter.com/arifnurrizqi
