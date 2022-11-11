@@ -39,8 +39,8 @@
 
 [website]: https://bemunwiku.com
 [twitter]: https://twitter.com/bem_unwiku
-[youtube]: https://www.youtube.com/channel/UCArjaHdj-UV9FQZNL_aZgRg
-[instagram]: https://instagram.com/bemunwiku
+[youtube]: https://www.youtube.com/channel/UCtRSMC8d3r5pLkBHa-Kflsw
+[instagram]: https://instagram.com/bem_unwiku
 <!---
 bemunwiku/bemunwiku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
