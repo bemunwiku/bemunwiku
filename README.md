@@ -2,9 +2,9 @@
 
 ### We are Ministry in BEM Unwiku
 
-- 👀 I’m interested in technological development
-- 🌱 I’m currently learning everything 🤣
-- 💞️ I’m looking to collaborate with other people
+- 👀 We are interested in technological development
+- 🌱 We are currently learning everything 🤣
+- 💞️ We are looking to collaborate with other people
 - 🥅 2022 Goals: contribution to BEM Unwiku
 - ⚡ Fun fact: Just like home :v
 
