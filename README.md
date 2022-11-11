@@ -1,6 +1,6 @@
 ## Hi there, We are Medkominfo BEM Unwiku 👋
 
-### I'am an Ministry in BEM Unwiku
+### We are Ministry in BEM Unwiku
 
 - 👀 I’m interested in technological development
 - 🌱 I’m currently learning everything 🤣
