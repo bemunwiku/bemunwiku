@@ -5,7 +5,7 @@
 - 👀 We are interested in technological development
 - 🌱 We are currently learning everything 🤣
 - 💞️ We are looking to collaborate with other people
-- 🥅 2022 Goals: contribution to BEM Unwiku
+- 🥅 2023 Goals: contribution to BEM Unwiku
 - ⚡ Fun fact: Just like home :v
 
 ### Connect with me:
